@@ -1,35 +1,63 @@
-# Delete Your Insight Budget Account
+<h1>Delete Your Insight Budget Account</h1>
 
-If you would like to delete your Insight Budget account and associated data, you can request deletion by contacting us at:
+<p>
+  You can permanently delete your Insight Budget account and associated data
+  directly from the mobile application.
+</p>
 
-**insight.budget@gmail.com**
+<h2>Delete your account in the app</h2>
 
-Please send your request from the email address associated with your account, if applicable, and include the phone number used to register in Insight Budget.
+<p>
+  To delete your account:
+</p>
 
-## What Will Be Deleted
+<ol>
+  <li>Open Insight Budget.</li>
+  <li>Go to Profile.</li>
+  <li>Select Delete account.</li>
+  <li>Confirm the deletion.</li>
+  <li>Verify your phone number using the verification code sent to you.</li>
+</ol>
 
-When your account deletion request is processed, we will delete the personal data associated with your Insight Budget account, including:
+<p>
+  After successful verification, your account and associated personal data
+  will be permanently deleted.
+</p>
 
-- account profile information;
-- phone number associated with your account;
-- expenses and expense records;
-- income and income records;
-- budgets and categories;
-- notification-related account data;
-- other user-generated data associated with your account.
+<h2>Request account deletion without using the app</h2>
 
-## Data Retention
+<p>
+  If you cannot access the application, you can request account deletion by
+  contacting us at:
+</p>
 
-We aim to process valid account deletion requests as soon as reasonably possible.
+<p>
+  <a href="mailto:insight.budget@gmail.com">
+    insight.budget@gmail.com
+  </a>
+</p>
 
-Some information may be retained where required by applicable law, for security purposes, or where technically necessary for a limited period.
+<p>
+  Please include the phone number associated with your Insight Budget account
+  so that we can identify the account to be deleted.
+</p>
 
-## In-App Account Deletion
+<h2>Data that will be deleted</h2>
 
-Insight Budget also provides an option to request account deletion from within the application settings.
+<p>
+  When your account is deleted, we delete data associated with your account,
+  including:
+</p>
 
-## Contact
+<ul>
+  <li>Profile information</li>
+  <li>Income records</li>
+  <li>Expense records</li>
+  <li>Notifications</li>
+  <li>Registered device information</li>
+  <li>Your Insight Budget authentication account</li>
+</ul>
 
-If you have any questions about account deletion or your personal data, contact us at:
-
-**insight.budget@gmail.com**
+<p>
+  Account deletion is permanent and cannot be undone.
+</p>
